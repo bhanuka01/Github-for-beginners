@@ -16,12 +16,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
+### A M Bhanuka Dilshan
+- **GitHub Username:** @bhanuka01
+- **Location:** matara
+- **Background:** Flutter Dev
 - **Learning Goals:** 
 - **Fun Fact:** 
-- **Date Added:** 
+- **Date Added:** Jan 29 2026 
 
 
